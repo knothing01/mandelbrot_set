@@ -4,13 +4,14 @@ This is an interactive Mandelbrot set explorer implemented in C++ using SFML (Si
 
 # Features
 
-Renders the Mandelbrot set with interactive graphical output using SFML. 
-Allows users to zoom in, zoom out, and navigate across the Mandelbrot set.
+    Renders the Mandelbrot set with interactive graphical output using SFML.
+    Allows users to zoom in, zoom out, and navigate across the Mandelbrot set.
+    Provides options to increase the number of iterations.
 
 # Prerequisites
 
-CMake (version 3.0 or higher)
-SFML (version 2.5 or higher)
+    CMake (version 3.0 or higher)
+    SFML (version 2.5 or higher) - Download SFML
 
 # Instructions
 
@@ -22,3 +23,8 @@ SFML (version 2.5 or higher)
         Left: Press left arrow
         Right: Press right arrow
     Increase Number of Iterations: Press Space
+
+# Example Output
+
+<img width="713" alt="Screenshot 2024-04-20 at 11 13 56" src="https://github.com/knothing01/mandelbrot_set/assets/156659825/e4c5bafa-2759-4886-ae8e-46e57cf44118">
+
